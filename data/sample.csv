@@ -1,0 +1,15 @@
+id,company,role,stage,applied,last_touch,followup,link,notes
+1,Papercone Labs,SWE Intern,offer,2026-09-22,2026-11-18,,https://example.invalid/papercone,team liked the cli project
+2,Northwind Robotics,ML Intern,onsite,2026-09-25,2026-11-21,2026-11-27,https://example.invalid/northwind,onsite scheduled
+3,Bluepeak Systems,Backend Intern,interview,2026-10-02,2026-11-12,2026-11-28,https://example.invalid/bluepeak,second round with hiring manager
+4,Halloran Data,Data Intern,interview,2026-10-05,2026-11-09,2026-11-26,https://example.invalid/halloran,
+5,Quartzline,SWE Intern,oa,2026-10-20,2026-11-19,2026-11-26,https://example.invalid/quartzline,codesignal done - waiting
+6,Ferrous AI,ML Intern,oa,2026-10-22,2026-11-02,2026-11-20,https://example.invalid/ferrous,oa invite arrived late
+7,Mapleford,Product Intern,applied,2026-10-28,2026-11-10,2026-11-24,https://example.invalid/mapleford,referred by a classmate
+8,Cinder Health,SWE Intern,applied,2026-11-02,2026-11-02,,https://example.invalid/cinder,
+9,Lantern Works,SWE Intern,applied,2026-11-06,2026-11-06,,https://example.invalid/lantern,
+10,Driftwell,PM Intern,applied,2026-11-11,2026-11-11,,https://example.invalid/driftwell,
+11,Kestrel Compute,SWE Intern,rejected,2026-09-30,2026-10-24,,https://example.invalid/kestrel,rejected after oa
+12,Vela Security,Security Intern,rejected,2026-10-01,2026-10-19,,https://example.invalid/vela,rejected at resume screen
+13,Otter Finance,SWE Intern,ghosted,2026-09-18,2026-09-18,,https://example.invalid/otter,no reply after two nudges
+14,Ridgeline Games,Gameplay Intern,watching,,,2026-12-15,https://example.invalid/ridgeline,opens mid-december - apply then
